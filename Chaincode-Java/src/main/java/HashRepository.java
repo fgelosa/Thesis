@@ -66,7 +66,7 @@ public final class HashRepository implements ContractInterface{
 
 
     @Transaction()
-    public Hash cangeHashStatus(final Context ctx, final String key, final String date, final String user) {
+    public Hash changeHashStatus(final Context ctx, final String key, final String date, final String user) {
         ChaincodeStub stub = ctx.getStub();
 
         String hashState = stub.getStringState(key);
