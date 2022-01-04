@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HashRepositoryTest$InvokeQueryAgreementTransaction" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-01-04T17:23:05" hostname="MagellPC" time="0.493">
+  <properties/>
+  <testcase name="whenCarDoesNotExist()" classname="HashRepositoryTest$InvokeQueryAgreementTransaction" time="0.477"/>
+  <testcase name="whenAgreementExists()" classname="HashRepositoryTest$InvokeQueryAgreementTransaction" time="0.015"/>
+  <system-out><![CDATA[Hash record hash000 does not exist
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
