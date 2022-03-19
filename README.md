@@ -60,7 +60,7 @@ cd fabric-samples/fabcar/
 
 6. Replace the file "fabcar.go" from the chaincode directory overwriting the same file in fabric-samples/chaincode/fabcar/go directory
 
-7. Lanciamo la testnet
+7. Start the testnet
 ```
 ./startFabric.sh
 ```
