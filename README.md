@@ -71,7 +71,7 @@ cd go
 rm -r *
 ```
 
-9. Replace the client file “fabcar.go” from client directory overwriting the same file in fabric-samples/fabcar/go directory
+9. Place the client file “fabcar.go” from client directory in fabric-samples/fabcar/go directory
 
 10. Run the script
 ```
